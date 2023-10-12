@@ -1,2 +1,2 @@
 # fannypack
-Origami patches and components that Danny likes to have within easy reach.
+Origami patches and components that I like to have within easy reach.
